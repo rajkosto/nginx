@@ -1,0 +1,42 @@
+[submodule "modules/headers-more-nginx-module"]
+	path = modules/headers-more-nginx-module
+	url = https://github.com/openresty/headers-more-nginx-module.git
+[submodule "modules/ngx_cache_purge"]
+	path = modules/ngx_cache_purge
+	url = https://github.com/FRiCKLE/ngx_cache_purge.git
+[submodule "modules/ngx_devel_kit"]
+	path = modules/ngx_devel_kit
+	url = https://github.com/simpl/ngx_devel_kit.git
+[submodule "modules/echo-nginx-module"]
+	path = modules/echo-nginx-module
+	url = https://github.com/openresty/echo-nginx-module.git
+[submodule "modules/ngx-fancyindex"]
+	path = modules/ngx-fancyindex
+	url = https://github.com/aperezdc/ngx-fancyindex.git
+[submodule "modules/nginx-push-stream-module"]
+	path = modules/nginx-push-stream-module
+	url = https://github.com/wandenberg/nginx-push-stream-module.git
+[submodule "modules/nginx-upload-progress-module"]
+	path = modules/nginx-upload-progress-module
+	url = https://github.com/masterzen/nginx-upload-progress-module.git
+[submodule "modules/nginx-upstream-fair"]
+	path = modules/nginx-upstream-fair
+	url = https://github.com/gnosek/nginx-upstream-fair.git
+[submodule "modules/nginx_syslog_patch"]
+	path = modules/nginx_syslog_patch
+	url = https://github.com/yaoweibin/nginx_syslog_patch.git
+[submodule "modules/ngx_http_pinba_module"]
+	path = modules/ngx_http_pinba_module
+	url = https://github.com/tony2001/ngx_http_pinba_module.git
+[submodule "modules/ngx_http_substitutions_filter_module"]
+	path = modules/ngx_http_substitutions_filter_module
+	url = https://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
+[submodule "modules/ngx_pagespeed"]
+	path = modules/ngx_pagespeed
+	url = https://github.com/pagespeed/ngx_pagespeed.git
+[submodule "modules/nginx-x-rid-header"]
+	path = modules/nginx-x-rid-header
+	url = https://github.com/newobj/nginx-x-rid-header.git
+[submodule "modules/nginx-rtmp-module"]
+	path = modules/nginx-rtmp-module
+	url = https://github.com/rajkosto/nginx-rtmp-module.git
